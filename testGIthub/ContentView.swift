@@ -13,6 +13,9 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
+
+            Text("new commit branch2")
+
             Text("Hello, world! 2")
         }
         .padding()
