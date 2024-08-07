@@ -14,7 +14,6 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
 
-            Text("Hello, world!")
             Text("new commit branch2")
 
             Text("Hello, world! 2")
