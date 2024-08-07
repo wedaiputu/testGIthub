@@ -15,6 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("new commit branch2")
+            Text("Hello, world! 2")
         }
         .padding()
     }
